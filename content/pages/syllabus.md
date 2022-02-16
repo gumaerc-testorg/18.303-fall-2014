@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a8c0207c-5cd1-77e3-3b06-7627e7904576
 ---
@@ -311,7 +313,7 @@ Delta functions and distributions
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Green's function of ∇2 in 3d for infinite space, the method of images
+Green's function of ∇{{< sup "2" >}} in 3d for infinite space, the method of images
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 4 due

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 21 Summary.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/1788556bb2a2f52f03bdcfc720987d1e_MIT18_303F14_Lecture21.pdf
+file: /media/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/1788556bb2a2f52f03bdcfc720987d1e_MIT18_303F14_Lecture21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Summaries
+parent_type: CourseSection
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 21 Summary
 uid: 1788556b-b2a2-f52f-03bd-cfc720987d1e
