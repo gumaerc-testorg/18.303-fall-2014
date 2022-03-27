@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 33 Summary
 uid: 0c092138-a956-ec7b-1661-0121490a81f5

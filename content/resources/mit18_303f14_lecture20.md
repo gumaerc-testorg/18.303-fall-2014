@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 20 Summary
 uid: ed2e057a-15b6-7090-d2e1-c8f09cf30406

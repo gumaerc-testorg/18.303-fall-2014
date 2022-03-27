@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 97b3ad62-02cf-9abe-1583-1f2808f930cd
 resourcetype: Document
 title: Linear Partial Differential Equations, Midterm Exam Solution
 uid: 65841b2e-9ddd-926b-7d64-50923326531b

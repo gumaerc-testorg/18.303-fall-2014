@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82c1344c-e5d3-52e9-9cb6-67b35fbdf489
 resourcetype: Document
 title: Linear Partial Differential Equations, Solution to Problem 2
 uid: 9e71970e-ef48-268d-82c1-a0b29999f296
