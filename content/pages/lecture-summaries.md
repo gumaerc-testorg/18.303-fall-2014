@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 ---
@@ -267,7 +270,7 @@ No handouts
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Green's function of ∇2 in 3d for infinite space, the method of images (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture17)
+[Green's function of ∇{{< sup "2" >}} in 3d for infinite space, the method of images (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture17)
 {{< tdclose >}}
 {{< tdopen >}}
 No handouts
