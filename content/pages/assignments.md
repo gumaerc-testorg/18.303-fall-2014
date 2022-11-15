@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course along
+  with solutions and associated files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,22 +27,10 @@ ASSOCIATED FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset1)
+{{% resource_link 59217fe4-512e-a9f5-06b0-8f4e0376da44 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Probelm Set Solution 1 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset1sol)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Probelm Set Solution 2 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset2sol)
+{{% resource_link 4ddac74f-2607-0aa3-8bf2-b99e00940db3 "Probelm Set Solution 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,10 +39,22 @@ ASSOCIATED FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset3)
+{{% resource_link 5f8e4bdf-b93d-1f0f-0214-09582c216df4 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Probelm Set Solution 3 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset3sol)
+{{% resource_link 9e71970e-ef48-268d-82c1-a0b29999f296 "Probelm Set Solution 2 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link aea96a46-126e-9a1a-7e7c-2669265707fd "Problem Set 3 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link b45c1232-530d-d3ab-522d-ea9e13c31fc5 "Probelm Set Solution 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 [IJulia notebook](https://nbviewer.jupyter.org/github/mitmath/18303/blob/fall14/pset3-f14.ipynb)
@@ -61,10 +63,10 @@ ASSOCIATED FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset4)
+{{% resource_link c7e3e7af-8a9b-6425-c3e8-40dfc4ccdc3c "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Probelm Set Solution 4 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset4sol)
+{{% resource_link 0ed71068-e504-a2f4-81dc-01a5d9a2b671 "Probelm Set Solution 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 [IJulia notebook](https://nbviewer.jupyter.org/github/mitmath/18303/blob/fall14/pset4-f14.ipynb)
@@ -73,10 +75,10 @@ ASSOCIATED FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset5)
+{{% resource_link 09c17164-33c0-4000-1efb-2c2ddb3ed043 "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Probelm Set Solution 5 (PDF)]({{< baseurl >}}/resources/mit18_303f14_pset5sol)
+{{% resource_link c8778f35-6ecf-4905-2c9e-5e41b1872e60 "Probelm Set Solution 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
