@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final project for the course
+  and example project titles from previous semesters.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
