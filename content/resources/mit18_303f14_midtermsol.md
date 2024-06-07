@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource related to Midterm Exam Solution.
 file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/65841b2e9ddd926b7d6450923326531b_MIT18_303F14_midtermsol.pdf
+file_size: 241518
 file_type: application/pdf
 learning_resource_types:
 - Exams

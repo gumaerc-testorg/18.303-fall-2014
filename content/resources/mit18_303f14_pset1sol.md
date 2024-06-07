@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 1 solution.
 file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/4ddac74f26070aa38bf2b99e00940db3_MIT18_303F14_pset1sol.pdf
+file_size: 327195
 file_type: application/pdf
 learning_resource_types:
 - Assignments
