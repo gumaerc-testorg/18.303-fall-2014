@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set  5 solution.
-file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/c8778f356ecf49052c9e5e41b1872e60_MIT18_303F14_pset5sol.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/c8778f356ecf49052c9e5e41b1872e60_MIT18_303F14_pset5sol.pdf
 file_size: 369596
 file_type: application/pdf
 learning_resource_types:
