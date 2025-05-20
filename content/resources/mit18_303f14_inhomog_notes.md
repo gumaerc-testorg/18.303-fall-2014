@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 19 Handout.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/a741fedf04103d5449541739cd5baaaf_MIT18_303F14_inhomog_notes.pdf
+file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/a741fedf04103d5449541739cd5baaaf_MIT18_303F14_inhomog_notes.pdf
 file_size: 419883
 file_type: application/pdf
 learning_resource_types:

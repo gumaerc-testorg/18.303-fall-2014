@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 36 Summary.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/393f6f15930909c26414bc34a0fa82b9_MIT18_303F14_Lecture36.pdf
+file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/393f6f15930909c26414bc34a0fa82b9_MIT18_303F14_Lecture36.pdf
 file_size: 238993
 file_type: application/pdf
 learning_resource_types:
