@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 2 solution.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/9e71970eef48268d82c1a0b29999f296_MIT18_303F14_pset2sol.pdf
+file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/9e71970eef48268d82c1a0b29999f296_MIT18_303F14_pset2sol.pdf
 file_size: 207839
 file_type: application/pdf
 learning_resource_types:

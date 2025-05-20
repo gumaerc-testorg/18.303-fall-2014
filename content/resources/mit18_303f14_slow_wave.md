@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 31 Handout.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/c40941e34244fbe46b182f001a960843_MIT18_303F14_slow_wave.pdf
+file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/c40941e34244fbe46b182f001a960843_MIT18_303F14_slow_wave.pdf
 file_size: 538737
 file_type: application/pdf
 learning_resource_types:
