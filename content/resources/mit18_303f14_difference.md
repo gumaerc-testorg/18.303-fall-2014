@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 3 Handout.
-file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/edea18830013f8c73172ae6bc0eeaafb_MIT18_303F14_difference.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/edea18830013f8c73172ae6bc0eeaafb_MIT18_303F14_difference.pdf
 file_size: 249299
 file_type: application/pdf
 learning_resource_types:
