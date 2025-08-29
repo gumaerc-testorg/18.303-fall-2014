@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 12 Summary.
-file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/9c98ffede9efc4456177003a4a59a5b2_MIT18_303F14_Lecture12.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/9c98ffede9efc4456177003a4a59a5b2_MIT18_303F14_Lecture12.pdf
 file_size: 244822
 file_type: application/pdf
 learning_resource_types:
