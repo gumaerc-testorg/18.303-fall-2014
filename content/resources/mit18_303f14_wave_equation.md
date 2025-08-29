@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Linear Partial Differential
   Equations, Lec 23 Handout.
-file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/70518f87dfd5c723ee3cd5d912001b51_MIT18_303F14_wave_equation.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/70518f87dfd5c723ee3cd5d912001b51_MIT18_303F14_wave_equation.pdf
 file_size: 457691
 file_type: application/pdf
 learning_resource_types:

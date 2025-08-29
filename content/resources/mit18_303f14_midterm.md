@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource related to Midterm Exam.
-file: /courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/d53f8880eab061419f4de824ae120b4d_MIT18_303F14_midterm.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/d53f8880eab061419f4de824ae120b4d_MIT18_303F14_midterm.pdf
 file_size: 242333
 file_type: application/pdf
 learning_resource_types:
