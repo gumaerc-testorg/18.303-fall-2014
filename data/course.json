@@ -30,7 +30,7 @@
     "website": "18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014"
   },
   "course_title": "Linear Partial Differential Equations: Analysis and Numerics",
-  "course_description": "This course provides students with the basic analytical and computational tools of linear partial differential equations (PDEs) for practical applications in science engineering, including heat / diffusion, wave, and Poisson equations. Analytics emphasize the viewpoint of linear algebra and the analogy with finite matrix problems. Numerics focus on finite-difference and finite-element techniques to reduce PDEs to matrix problems. The [Julia Language](http://julialang.org) (a free, open-source environment) is introduced and used in homework for simple examples.\n",
+  "course_description": "This course provides students with the basic analytical and computational tools of linear partial differential equations (PDEs) for practical applications in science engineering, including heat / diffusion, wave, and Poisson equations. Analytics emphasize the viewpoint of linear algebra and the analogy with finite matrix problems. Numerics focus on finite-difference and finite-element techniques to reduce PDEs to matrix problems. The {{% resource_link \"0906b380-db64-4b93-bdc8-034072274b21\" \"Julia Language\" %}} (a free, open-source environment) is introduced and used in homework for simple examples.\n",
   "department_numbers": [
     "18"
   ],
