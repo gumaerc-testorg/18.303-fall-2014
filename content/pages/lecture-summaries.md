@@ -29,7 +29,7 @@ HANDOUTS
 
 {{% resource_link "c3fb398f-fd7c-ce72-3493-1f2b0a93f3d9" "Fourier sine series examples (PDF)" %}}
 
-[sine-series Julia notebook](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/lecture-2.ipynb)
+{{% resource_link "0c9eabfb-3d89-4f1f-b594-f97a25cf8599" "sine-series Julia notebook" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -39,7 +39,7 @@ HANDOUTS
 
 {{% resource_link "edea1883-0013-f8c7-3172-ae6bc0eeaafb" "Notes on difference approximations (PDF)" %}}
 
-[IJulia notebook from the in-class demo](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/lecture-3.ipynb)
+{{% resource_link "d310ec41-9ec5-474e-91a4-f225b82f6341" "IJulia notebook from the in-class demo" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -50,7 +50,7 @@ No handouts
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Optional
 {{< tdclose >}}{{< tdopen >}}
-[Julia Tutorial](https://github.com/stevengj/julia-mit/)
+{{% resource_link "4549877b-4f3b-4f67-a05c-b966f2728f7a" "Julia Tutorial" %}}
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "86787f1c-30f1-c5a0-13c7-e75531ba00a6" "Julia & IJulia Cheat-sheet (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -91,7 +91,7 @@ No handouts
 
 {{% resource_link "d1683dc2-ee36-c5bc-051c-41da64f3ca08" "Notes on Bessel functions and cylindrical problems (PDF)" %}}
 
-[IJulia Bessel-function notebook](http://math.mit.edu/~stevenj/18.303/lecture-8.html)
+{{% resource_link "ff252a94-243c-424b-8fcc-74dbea94145f" "IJulia Bessel-function notebook" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -110,7 +110,7 @@ No handouts
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "9c98ffed-e9ef-c445-6177-003a4a59a5b2" "Kronecker products (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[IJulia notebook lecture 10](http://math.mit.edu/~stevenj/18.303/lecture-10.html)
+{{% resource_link "b9f33a7a-fda9-4b60-9188-553cf1414c1a" "IJulia notebook lecture 10" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -233,7 +233,7 @@ No handouts
 {{% resource_link "a6382e6a-9789-3b56-4dfe-d576a538c95e" "Numerical examples of total internal reflection (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Waveguide modes IJulia notebook](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/Waveguide-Modes.ipynb)
+{{% resource_link "2c14f91d-5b5c-47ab-a6c2-8eeefb78a3e4" "Waveguide modes IJulia notebook" %}}
 
 {{% resource_link "c40941e3-4244-fbe4-6b18-2f001a960843" "Variational proof of slow-wave localization (PDF)" %}}
 
