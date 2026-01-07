@@ -57,7 +57,7 @@ ASSOCIATED FILES
 {{% resource_link b45c1232-530d-d3ab-522d-ea9e13c31fc5 "Probelm Set Solution 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[IJulia notebook](https://nbviewer.jupyter.org/github/mitmath/18303/blob/fall14/pset3-f14.ipynb)
+{{% resource_link "33800549-3166-4fc7-9345-40ce671e8db9" "IJulia notebook" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ ASSOCIATED FILES
 {{% resource_link 0ed71068-e504-a2f4-81dc-01a5d9a2b671 "Probelm Set Solution 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[IJulia notebook](https://nbviewer.jupyter.org/github/mitmath/18303/blob/fall14/pset4-f14.ipynb)
+{{% resource_link "678d6e91-e674-481a-9a33-74dfb8f1edac" "IJulia notebook" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

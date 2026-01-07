@@ -28,7 +28,7 @@ Analytics emphasize the viewpoint of linear algebra and the analogy with finite 
 
 Numerics focus on finite-difference and finite-element techniques to reduce PDEs to matrix problems, including stability and convergence analysis and implicit/explicit time-stepping.
 
-[Julia programming language](https://github.com/JuliaLang/julia) (a MATLAB®-like environment) is introduced and used in homework for simple examples. Julia is a high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
+{{% resource_link "56d441d6-2ae6-4782-bb47-a8bfee083f0b" "Julia programming language" %}} (a MATLAB®-like environment) is introduced and used in homework for simple examples. Julia is a high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
 
 Textbook
 --------
@@ -36,9 +36,9 @@ Textbook
 There is no required text for this course, though the following books are recommended:
 
 Strang, Gilbert. _Computational Science and Engineering_. Wellesley-Cambridge Press, 2007. ISBN: 9780961408817.  
-(emphasizing more the numerical part of the course). More information, including online chapters, can be found on [Prof. Strang's CSE website](http://math.mit.edu/~gs/cse/).
+(emphasizing more the numerical part of the course). More information, including online chapters, can be found on {{% resource_link "ba4756b7-9755-40da-8043-101cb84046a2" "Prof. Strang's CSE website" %}}.
 
-Olver, Peter. [_Introduction to Partial Differential Equations_](https://www.amazon.com/Introduction-Differential-Equations-Undergraduate-Mathematics/dp/3319020986). Springer, 2013. ISBN: 9783319020983. \[Preview with [Google Books](http://books.google.com/books?id=aQ8JAgAAQBAJ&pg=PAfrontcover)\] (free online book)
+Olver, Peter. {{% resource_link "3aa8df53-2be9-48ac-b772-38f032dc9c94" "_Introduction to Partial Differential Equations_" %}}. Springer, 2013. ISBN: 9783319020983. \[Preview with {{% resource_link "0a3ccf54-2921-412b-86b7-4308ce1c5900" "Google Books" %}}\] (free online book)
 
 Requirements
 ------------
